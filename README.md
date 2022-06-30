@@ -29,34 +29,34 @@ Laravel SB Admin 2 uses some open-source third-party libraries/packages, many th
 
 `register`
 
-<img src="https://freeimage.host/i/joDQQp">
+<img src="https://iili.io/joDQQp.png">
 
 ---
 
 `dashboard home`
 
-<img src="https://freeimage.host/i/joDr3F">
+<img src="https://iili.io/joDr3F.png">
 
 ---
 
 `dashboard category`
 
-<img src="https://freeimage.host/i/joD6va">
+<img src="https://iili.io/joD6va.png">
 
 ---
 
 `dashboard books`
 
-<img src="https://freeimage.host/i/joD4Yg">
+<img src="https://iili.io/joD4Yg.png">
 
 ---
 
 `profile`
 
-<img src="https://freeimage.host/i/joDPyJ">
+<img src="https://iili.io/joDPyJ.png">
 
 ---
 
 `logout`
 
-<img src="https://freeimage.host/i/joDLjR">
+<img src="https://iili.io/joDLjR.png">
