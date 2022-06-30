@@ -23,7 +23,7 @@ Laravel SB Admin 2 uses some open-source third-party libraries/packages, many th
 
 `login`
 
-<img src="https://freeimage.host/i/joDsTv">
+<a href="https://freeimage.host/id"><img src="https://iili.io/joDsTv.png"/></a>
 
 ---
 
